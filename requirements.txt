@@ -1,0 +1,11 @@
+ezdxf
+
+# Library for plotting and saving images
+matplotlib
+
+# PyTorch and torchvision for training the YOLOv5s model
+torch
+torchvision
+
+# PyYAML is used for creating the data.yaml configuration file
+pyyaml
